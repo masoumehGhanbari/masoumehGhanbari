@@ -1,6 +1,6 @@
 # Hi, I'm Massi!
 
-![Front-end Engineer](https://media.licdn.com/dms/image/D4D16AQH3AKuZ96wGmw/profile-displaybackgroundimage-shrink_350_1400/0/1718026640006?e=1723680000&v=beta&t=q_eI_mpmu86L79mjbK-NnzUAKgDTqrRQESpfN7sH8k8)
+![Front-end Engineer](https://media.licdn.com/dms/image/D4D16AQH2akRtvtEG1g/profile-displaybackgroundimage-shrink_350_1400/0/1718089145502?e=1723680000&v=beta&t=TxM1qkTL2NInHq9eXfU0a8rnoDw8DUZH58Tp8gWg61Q)
 
 🧝🏻‍♀️ Front-end Engineer sharing about my journey and learnings in tech<br />
 👩🏻‍🎓 Studied Software Engineer at University of PNU, Iran<br />
